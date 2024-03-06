@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 requests = "*"
+pretix = "==2024.1.0"
 
 [dev-packages]
 
